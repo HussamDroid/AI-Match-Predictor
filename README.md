@@ -33,5 +33,3 @@ The app pulls current league standings to determine the "Attack Strength" and "D
 4. **Run the App**
    ```bash
     streamlit run app.py
-
-
