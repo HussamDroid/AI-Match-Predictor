@@ -27,11 +27,11 @@ The app pulls current league standings to determine the "Attack Strength" and "D
 
 3. **Configure Secrets:**
    ```bash
- Create a folder named .streamlit and a file inside it called secrets.toml:
- FOOTBALL_DATA_API_KEY = "your_api_key_here"
+    Create a folder named .streamlit and a file inside it called secrets.toml:
+    FOOTBALL_DATA_API_KEY = "your_api_key_here"
 
 4. **Run the App**
    ```bash
- streamlit run app.py
+    streamlit run app.py
 
 
