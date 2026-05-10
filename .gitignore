@@ -1,0 +1,15 @@
+# Streamlit secrets (CRITICAL)
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
